@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="beautyssm_api_goods" />
+        <module name="beautyssm_api_user" />
+        <module name="beautyssm_common" />
+        <module name="beautyssm_distributed_tools" />
+        <module name="beautyssm_mq_consumer" />
+        <module name="beautyssm_service_goods" />
+        <module name="beautyssm_service_user" />
+        <module name="beautyssm_web_goods" />
+        <module name="beautyssm_web_user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="beautyssm_api_goods" target="1.5" />
+      <module name="beautyssm_api_user" target="1.5" />
+      <module name="beautyssm_common" target="1.5" />
+      <module name="beautyssm_distributed_tools" target="1.5" />
+      <module name="beautyssm_mq_consumer" target="1.5" />
+      <module name="beautyssm_parent" target="1.5" />
+      <module name="beautyssm_service_goods" target="1.5" />
+      <module name="beautyssm_service_user" target="1.5" />
+      <module name="beautyssm_web_goods" target="1.5" />
+      <module name="beautyssm_web_user" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
